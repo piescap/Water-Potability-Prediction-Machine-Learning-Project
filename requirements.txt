@@ -1,0 +1,9 @@
+scikit-learn==1.6.1
+xgboost==2.1.4
+imbalanced-learn==0.13.0
+mlxtend==0.23.3
+missingno==0.5.2
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+seaborn==0.13.2
