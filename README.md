@@ -3,7 +3,7 @@
 <p align="center">24 February 2024</p>
 
 ## Overview
-The **final project** for the course: *"Machine Learning, Artificial Neural Networks and Deep Learning" - part 2* held by **Professor Matteo Zignani** in the **[L-31] Artificial Intelligence** bachelor's degree program.
+The **final project** for the course: *"Machine Learning, Artificial Neural Networks and Deep Learning" - part 1* held by **Professor Matteo Zignani** in the **[L-31] Artificial Intelligence** bachelor's degree program.
 
 
 The main objective of the project is to build a **machine learning model capable of predicting water potability**, i.e., whether water is safe for human consumption, based on physicochemical features.
